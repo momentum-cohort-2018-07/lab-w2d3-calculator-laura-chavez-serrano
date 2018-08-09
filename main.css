@@ -1,0 +1,18 @@
+.botones button{
+    background-color:green;
+    font-size: 80px;
+    width: 80px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.botones output {
+    
+    font-size: 40px;
+    width: 120px;
+}
+.table {
+    background-color:green
+}
+.botones {
+    margin-left:30%;
+}
